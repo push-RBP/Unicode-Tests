@@ -10,3 +10,8 @@ print("len:", len(s))
 ערך = 23
 
 print(ערך)
+
+
+s = "x‏" * 100 #    "‏x" is assigned
+
+print(len(s))
